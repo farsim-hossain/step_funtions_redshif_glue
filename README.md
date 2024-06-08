@@ -12,4 +12,4 @@ In this project, we implement a data pipeline utilizing AWS services including R
 9. Configuring SNS Subscription
 10. Creating Dashboards with QuickSight
 
-Here is the blog link for detailed explanation : 
+Here is the blog link for detailed explanation : https://medium.com/@farsim/driving-a-data-pipeline-using-aws-step-functions-df1e5951b561
